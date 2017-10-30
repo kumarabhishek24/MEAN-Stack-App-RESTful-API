@@ -5,7 +5,7 @@ Steps To start the App:
 
 1) Install all the depedencies by typing :
     npm install
-    
+     
 2) Now start the server by typing :
     node server
   
